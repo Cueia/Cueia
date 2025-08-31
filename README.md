@@ -3,7 +3,6 @@
 
 <p><em> 💼 Desenvolvedora Back-End </br>
 </br> 💻 Estudante de Engenharia de Software </br>
-</br> 📖 Estudando Python e C# </br>
 </em></p>
 
   ## Linguagens e Tecnologias 
